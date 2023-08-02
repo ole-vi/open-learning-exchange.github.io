@@ -31,6 +31,7 @@ The following hardware is required for the internship:
 1. Laptop or computer with minimum 8GB of RAM
 2. Android device (phone or tablet) with minimum 2GB RAM and at least Android 6 "Marshmallow"
 3. Internet connection
+4. Follow steps here on how to enable [developer mode](../mi/mi-developer-mode.md) on your device 
 
 ## Step 1 - GitHub & Markdown Setup
 
